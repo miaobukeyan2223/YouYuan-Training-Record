@@ -1,0 +1,7 @@
+interface:
+  display_name: "YouYuan-Training-Record"
+  short_description: "制作友缘职校真实课堂培训实录海报"
+  default_prompt: "使用 $youyuan-training-record 为本期真实课堂照片制作培训实录海报。"
+
+policy:
+  allow_implicit_invocation: true
